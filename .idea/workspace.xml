@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aa874298-1dcb-487d-939e-c5340c9d097b" name="Default Changelist" comment="" />
+    <list default="true" id="aa874298-1dcb-487d-939e-c5340c9d097b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,12 +55,32 @@
       <option name="presentableId" value="Default" />
       <updated>1584539606433</updated>
     </task>
+    <task id="LOCAL-00001" summary="Тестируем heroku">
+      <created>1584539840773</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1584539840773</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Тестируем heroku" />
+    <option name="LAST_COMMIT_MESSAGE" value="Тестируем heroku" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="386" y="15" key="CommitChangelistDialog2" timestamp="1584539839674">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="386" y="15" key="CommitChangelistDialog2/0.0.1440.860@0.0.1440.860" timestamp="1584539839674" />
     <state x="223" y="56" key="SettingsEditor" timestamp="1584539650300">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="223" y="56" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1584539650300" />
+    <state x="312" y="160" key="Vcs.Push.Dialog.v2" timestamp="1584539843430">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="312" y="160" key="Vcs.Push.Dialog.v2/0.0.1440.860@0.0.1440.860" timestamp="1584539843430" />
   </component>
 </project>
