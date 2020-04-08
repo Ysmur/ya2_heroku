@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa874298-1dcb-487d-939e-c5340c9d097b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/flask_app.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/logg.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ya2_heroku.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ya2_heroku.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flask_app.py" beforeDir="false" afterPath="$PROJECT_DIR$/flask_app.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +40,28 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Python.flask_app">
+  <component name="RunManager" selected="Python.flask_app (1)">
+    <configuration name="flask_app (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ya2_heroku" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/flask_app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="flask_app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ya2_heroku" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -88,6 +106,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.flask_app (1)" />
         <item itemvalue="Python.flask_app" />
         <item itemvalue="Python.logg" />
       </list>
@@ -111,7 +130,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584539840773</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Создание учебного навыка Купи слона для Алисы">
+      <created>1586348461766</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1586348461766</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -129,37 +155,44 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Тестируем heroku" />
-    <option name="LAST_COMMIT_MESSAGE" value="Тестируем heroku" />
+    <MESSAGE value="Создание учебного навыка Купи слона для Алисы" />
+    <option name="LAST_COMMIT_MESSAGE" value="Создание учебного навыка Купи слона для Алисы" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="386" y="15" key="CommitChangelistDialog2" timestamp="1584539839674">
-      <screen x="0" y="0" width="1440" height="860" />
+    <state x="366" y="0" key="CommitChangelistDialog2" timestamp="1586348459853">
+      <screen x="0" y="0" width="1366" height="738" />
     </state>
+    <state x="366" y="0" key="CommitChangelistDialog2/0.0.1366.738/1366.0.1920.1050@0.0.1366.738" timestamp="1586348459853" />
     <state x="386" y="15" key="CommitChangelistDialog2/0.0.1440.860@0.0.1440.860" timestamp="1584539839674" />
-    <state width="1345" height="151" key="GridCell.Tab.0.bottom" timestamp="1586347709561">
-      <screen x="0" y="0" width="1366" height="738" />
+    <state width="1345" height="295" key="GridCell.Tab.0.bottom" timestamp="1586351949344">
+      <screen x="1366" y="0" width="1920" height="1050" />
     </state>
-    <state width="1345" height="151" key="GridCell.Tab.0.bottom/0.0.1366.738/1366.0.1920.1050@0.0.1366.738" timestamp="1586347709561" />
-    <state width="1345" height="151" key="GridCell.Tab.0.center" timestamp="1586347709561">
-      <screen x="0" y="0" width="1366" height="738" />
+    <state width="1345" height="295" key="GridCell.Tab.0.bottom/0.0.1366.738/1366.0.1920.1050@0.0.1366.738" timestamp="1586348825850" />
+    <state width="1345" height="295" key="GridCell.Tab.0.bottom/0.0.1366.738/1366.0.1920.1050@1366.0.1920.1050" timestamp="1586351949344" />
+    <state width="1345" height="295" key="GridCell.Tab.0.center" timestamp="1586351949342">
+      <screen x="1366" y="0" width="1920" height="1050" />
     </state>
-    <state width="1345" height="151" key="GridCell.Tab.0.center/0.0.1366.738/1366.0.1920.1050@0.0.1366.738" timestamp="1586347709561" />
-    <state width="1345" height="151" key="GridCell.Tab.0.left" timestamp="1586347709561">
-      <screen x="0" y="0" width="1366" height="738" />
+    <state width="1345" height="295" key="GridCell.Tab.0.center/0.0.1366.738/1366.0.1920.1050@0.0.1366.738" timestamp="1586348825850" />
+    <state width="1345" height="295" key="GridCell.Tab.0.center/0.0.1366.738/1366.0.1920.1050@1366.0.1920.1050" timestamp="1586351949342" />
+    <state width="1345" height="295" key="GridCell.Tab.0.left" timestamp="1586351949342">
+      <screen x="1366" y="0" width="1920" height="1050" />
     </state>
-    <state width="1345" height="151" key="GridCell.Tab.0.left/0.0.1366.738/1366.0.1920.1050@0.0.1366.738" timestamp="1586347709561" />
-    <state width="1345" height="151" key="GridCell.Tab.0.right" timestamp="1586347709561">
-      <screen x="0" y="0" width="1366" height="738" />
+    <state width="1345" height="295" key="GridCell.Tab.0.left/0.0.1366.738/1366.0.1920.1050@0.0.1366.738" timestamp="1586348825850" />
+    <state width="1345" height="295" key="GridCell.Tab.0.left/0.0.1366.738/1366.0.1920.1050@1366.0.1920.1050" timestamp="1586351949342" />
+    <state width="1345" height="295" key="GridCell.Tab.0.right" timestamp="1586351949343">
+      <screen x="1366" y="0" width="1920" height="1050" />
     </state>
-    <state width="1345" height="151" key="GridCell.Tab.0.right/0.0.1366.738/1366.0.1920.1050@0.0.1366.738" timestamp="1586347709561" />
+    <state width="1345" height="295" key="GridCell.Tab.0.right/0.0.1366.738/1366.0.1920.1050@0.0.1366.738" timestamp="1586348825850" />
+    <state width="1345" height="295" key="GridCell.Tab.0.right/0.0.1366.738/1366.0.1920.1050@1366.0.1920.1050" timestamp="1586351949343" />
     <state x="212" y="22" key="SettingsEditor" timestamp="1586345425005">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="212" y="22" key="SettingsEditor/0.0.1366.738/1366.0.1920.1050@0.0.1366.738" timestamp="1586345425005" />
     <state x="223" y="56" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1584539650300" />
-    <state x="312" y="160" key="Vcs.Push.Dialog.v2" timestamp="1584539843430">
-      <screen x="0" y="0" width="1440" height="860" />
+    <state x="296" y="137" key="Vcs.Push.Dialog.v2" timestamp="1586348465304">
+      <screen x="0" y="0" width="1366" height="738" />
     </state>
+    <state x="296" y="137" key="Vcs.Push.Dialog.v2/0.0.1366.738/1366.0.1920.1050@0.0.1366.738" timestamp="1586348465304" />
     <state x="312" y="160" key="Vcs.Push.Dialog.v2/0.0.1440.860@0.0.1440.860" timestamp="1584539843430" />
     <state x="384" y="192" key="com.intellij.ide.util.TipDialog" timestamp="1586345345976">
       <screen x="0" y="0" width="1366" height="738" />
