@@ -2,13 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa874298-1dcb-487d-939e-c5340c9d097b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/flask_app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logg.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ya2_heroku.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ya2_heroku.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -29,20 +40,58 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
+  <component name="RunManager" selected="Python.flask_app">
+    <configuration name="flask_app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ya2_heroku" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:\Школа\2017-2018 уч. год\Доп. образование\Яндекс.Лицей\Ya_2\ya2_heroku\flask_app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="logg" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ya2_heroku" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/logg.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
       <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
+        <item itemvalue="Python.flask_app" />
+        <item itemvalue="Python.logg" />
       </list>
-    </option>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -65,6 +114,19 @@
     <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Тестируем heroku" />
     <option name="LAST_COMMIT_MESSAGE" value="Тестируем heroku" />
@@ -74,13 +136,34 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="386" y="15" key="CommitChangelistDialog2/0.0.1440.860@0.0.1440.860" timestamp="1584539839674" />
-    <state x="223" y="56" key="SettingsEditor" timestamp="1584539650300">
-      <screen x="0" y="0" width="1440" height="860" />
+    <state width="1345" height="151" key="GridCell.Tab.0.bottom" timestamp="1586347709561">
+      <screen x="0" y="0" width="1366" height="738" />
     </state>
+    <state width="1345" height="151" key="GridCell.Tab.0.bottom/0.0.1366.738/1366.0.1920.1050@0.0.1366.738" timestamp="1586347709561" />
+    <state width="1345" height="151" key="GridCell.Tab.0.center" timestamp="1586347709561">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1345" height="151" key="GridCell.Tab.0.center/0.0.1366.738/1366.0.1920.1050@0.0.1366.738" timestamp="1586347709561" />
+    <state width="1345" height="151" key="GridCell.Tab.0.left" timestamp="1586347709561">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1345" height="151" key="GridCell.Tab.0.left/0.0.1366.738/1366.0.1920.1050@0.0.1366.738" timestamp="1586347709561" />
+    <state width="1345" height="151" key="GridCell.Tab.0.right" timestamp="1586347709561">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1345" height="151" key="GridCell.Tab.0.right/0.0.1366.738/1366.0.1920.1050@0.0.1366.738" timestamp="1586347709561" />
+    <state x="212" y="22" key="SettingsEditor" timestamp="1586345425005">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="212" y="22" key="SettingsEditor/0.0.1366.738/1366.0.1920.1050@0.0.1366.738" timestamp="1586345425005" />
     <state x="223" y="56" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1584539650300" />
     <state x="312" y="160" key="Vcs.Push.Dialog.v2" timestamp="1584539843430">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="312" y="160" key="Vcs.Push.Dialog.v2/0.0.1440.860@0.0.1440.860" timestamp="1584539843430" />
+    <state x="384" y="192" key="com.intellij.ide.util.TipDialog" timestamp="1586345345976">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="384" y="192" key="com.intellij.ide.util.TipDialog/0.0.1366.738/1366.0.1920.1050@0.0.1366.738" timestamp="1586345345976" />
   </component>
 </project>
