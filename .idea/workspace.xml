@@ -38,49 +38,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Python.flask_app (1)">
-    <configuration name="flask_app (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="ya2_heroku" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/flask_app.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="flask_app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="ya2_heroku" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\Школа\2017-2018 уч. год\Доп. образование\Яндекс.Лицей\Ya_2\ya2_heroku\flask_app.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager">
     <configuration name="logg" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ya2_heroku" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -102,10 +60,52 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ya2_heroku" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:\Школа\2017-2018 уч. год\Доп. образование\Яндекс.Лицей\Ya_2\ya2_heroku\main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ya2_heroku" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:\Школа\2017-2018 уч. год\Доп. образование\Яндекс.Лицей\Ya_2\ya2_heroku\main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.flask_app (1)" />
-        <item itemvalue="Python.flask_app" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.main" />
         <item itemvalue="Python.logg" />
       </list>
     </recent_temporary>
@@ -149,7 +149,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586952989118</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Создание учебного навыка Угадай город (добавлен index)">
+      <created>1586953464408</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1586953464408</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -169,52 +176,57 @@
     <MESSAGE value="Тестируем heroku" />
     <MESSAGE value="Создание учебного навыка Купи слона для Алисы" />
     <MESSAGE value="Создание учебного навыка Угадай город" />
-    <option name="LAST_COMMIT_MESSAGE" value="Создание учебного навыка Угадай город" />
+    <MESSAGE value="Создание учебного навыка Угадай город (добавлен index)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Создание учебного навыка Угадай город (добавлен index)" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="514" y="0" key="CommitChangelistDialog2" timestamp="1586952987238">
+    <state x="514" y="0" key="CommitChangelistDialog2" timestamp="1586953462558">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="366" y="0" key="CommitChangelistDialog2/0.0.1366.738/1366.0.1920.1050@0.0.1366.738" timestamp="1586348459853" />
     <state x="1880" y="0" key="CommitChangelistDialog2/0.0.1366.738/1366.0.1920.1050@1366.0.1920.1050" timestamp="1586354540740" />
     <state x="386" y="15" key="CommitChangelistDialog2/0.0.1440.860@0.0.1440.860" timestamp="1584539839674" />
-    <state x="514" y="0" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1586952987238" />
+    <state x="514" y="0" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1586953462558" />
     <state x="740" y="279" key="FileChooserDialogImpl" timestamp="1586702353970">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="740" y="279" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1586702353970" />
-    <state width="1899" height="108" key="GridCell.Tab.0.bottom" timestamp="1586359560762">
-      <screen x="1366" y="0" width="1920" height="1050" />
+    <state width="1899" height="329" key="GridCell.Tab.0.bottom" timestamp="1586953576347">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1345" height="295" key="GridCell.Tab.0.bottom/0.0.1366.738/1366.0.1920.1050@0.0.1366.738" timestamp="1586348825850" />
     <state width="1899" height="108" key="GridCell.Tab.0.bottom/0.0.1366.738/1366.0.1920.1050@1366.0.1920.1050" timestamp="1586359560762" />
-    <state width="1899" height="108" key="GridCell.Tab.0.center" timestamp="1586359560762">
-      <screen x="1366" y="0" width="1920" height="1050" />
+    <state width="1899" height="329" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1586953576347" />
+    <state width="1899" height="329" key="GridCell.Tab.0.center" timestamp="1586953576347">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1345" height="295" key="GridCell.Tab.0.center/0.0.1366.738/1366.0.1920.1050@0.0.1366.738" timestamp="1586348825850" />
     <state width="1899" height="108" key="GridCell.Tab.0.center/0.0.1366.738/1366.0.1920.1050@1366.0.1920.1050" timestamp="1586359560762" />
-    <state width="1899" height="108" key="GridCell.Tab.0.left" timestamp="1586359560762">
-      <screen x="1366" y="0" width="1920" height="1050" />
+    <state width="1899" height="329" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1586953576347" />
+    <state width="1899" height="329" key="GridCell.Tab.0.left" timestamp="1586953576347">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1345" height="295" key="GridCell.Tab.0.left/0.0.1366.738/1366.0.1920.1050@0.0.1366.738" timestamp="1586348825850" />
     <state width="1899" height="108" key="GridCell.Tab.0.left/0.0.1366.738/1366.0.1920.1050@1366.0.1920.1050" timestamp="1586359560762" />
-    <state width="1899" height="108" key="GridCell.Tab.0.right" timestamp="1586359560762">
-      <screen x="1366" y="0" width="1920" height="1050" />
+    <state width="1899" height="329" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1586953576347" />
+    <state width="1899" height="329" key="GridCell.Tab.0.right" timestamp="1586953576347">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1345" height="295" key="GridCell.Tab.0.right/0.0.1366.738/1366.0.1920.1050@0.0.1366.738" timestamp="1586348825850" />
     <state width="1899" height="108" key="GridCell.Tab.0.right/0.0.1366.738/1366.0.1920.1050@1366.0.1920.1050" timestamp="1586359560762" />
+    <state width="1899" height="329" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1586953576347" />
     <state x="212" y="22" key="SettingsEditor" timestamp="1586345425005">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="212" y="22" key="SettingsEditor/0.0.1366.738/1366.0.1920.1050@0.0.1366.738" timestamp="1586345425005" />
     <state x="223" y="56" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1584539650300" />
-    <state x="416" y="195" key="Vcs.Push.Dialog.v2" timestamp="1586952991496">
+    <state x="416" y="195" key="Vcs.Push.Dialog.v2" timestamp="1586953466064">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="296" y="137" key="Vcs.Push.Dialog.v2/0.0.1366.738/1366.0.1920.1050@0.0.1366.738" timestamp="1586348465304" />
     <state x="1782" y="195" key="Vcs.Push.Dialog.v2/0.0.1366.738/1366.0.1920.1050@1366.0.1920.1050" timestamp="1586354545652" />
     <state x="312" y="160" key="Vcs.Push.Dialog.v2/0.0.1440.860@0.0.1440.860" timestamp="1584539843430" />
-    <state x="416" y="195" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1586952991496" />
+    <state x="416" y="195" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1586953466064" />
     <state x="540" y="273" key="com.intellij.ide.util.TipDialog" timestamp="1586702337927">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
