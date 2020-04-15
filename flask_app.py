@@ -23,7 +23,9 @@ cities = {
 # создаем словарь, где для каждого пользователя
 # мы будем хранить его имя
 sessionStorage = {}
-
+@app.route('/', methods=['GET'])
+def index():
+    return 'hell'
 
 @app.route('/post', methods=['POST'])
 def main():
