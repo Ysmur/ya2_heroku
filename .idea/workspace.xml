@@ -156,7 +156,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586953464408</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Создание учебного навыка Угадай город (main)">
+      <created>1586953828656</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1586953828656</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -177,16 +184,17 @@
     <MESSAGE value="Создание учебного навыка Купи слона для Алисы" />
     <MESSAGE value="Создание учебного навыка Угадай город" />
     <MESSAGE value="Создание учебного навыка Угадай город (добавлен index)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Создание учебного навыка Угадай город (добавлен index)" />
+    <MESSAGE value="Создание учебного навыка Угадай город (main)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Создание учебного навыка Угадай город (main)" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="514" y="0" key="CommitChangelistDialog2" timestamp="1586953462558">
+    <state x="514" y="0" key="CommitChangelistDialog2" timestamp="1586953825990">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="366" y="0" key="CommitChangelistDialog2/0.0.1366.738/1366.0.1920.1050@0.0.1366.738" timestamp="1586348459853" />
     <state x="1880" y="0" key="CommitChangelistDialog2/0.0.1366.738/1366.0.1920.1050@1366.0.1920.1050" timestamp="1586354540740" />
     <state x="386" y="15" key="CommitChangelistDialog2/0.0.1440.860@0.0.1440.860" timestamp="1584539839674" />
-    <state x="514" y="0" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1586953462558" />
+    <state x="514" y="0" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1586953825990" />
     <state x="740" y="279" key="FileChooserDialogImpl" timestamp="1586702353970">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -220,13 +228,13 @@
     </state>
     <state x="212" y="22" key="SettingsEditor/0.0.1366.738/1366.0.1920.1050@0.0.1366.738" timestamp="1586345425005" />
     <state x="223" y="56" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1584539650300" />
-    <state x="416" y="195" key="Vcs.Push.Dialog.v2" timestamp="1586953466064">
+    <state x="416" y="195" key="Vcs.Push.Dialog.v2" timestamp="1586953850619">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="296" y="137" key="Vcs.Push.Dialog.v2/0.0.1366.738/1366.0.1920.1050@0.0.1366.738" timestamp="1586348465304" />
     <state x="1782" y="195" key="Vcs.Push.Dialog.v2/0.0.1366.738/1366.0.1920.1050@1366.0.1920.1050" timestamp="1586354545652" />
     <state x="312" y="160" key="Vcs.Push.Dialog.v2/0.0.1440.860@0.0.1440.860" timestamp="1584539843430" />
-    <state x="416" y="195" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1586953466064" />
+    <state x="416" y="195" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1586953850619" />
     <state x="540" y="273" key="com.intellij.ide.util.TipDialog" timestamp="1586702337927">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
