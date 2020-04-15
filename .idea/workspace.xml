@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="aa874298-1dcb-487d-939e-c5340c9d097b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -178,7 +178,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586957447676</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Создание учебного навыка Алиса и карты (добавлен requests в requirements.txt)">
+      <created>1586958532057</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1586958532057</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -202,16 +209,17 @@
     <MESSAGE value="Создание учебного навыка Угадай город (main)" />
     <MESSAGE value="Создание учебного навыка Угадай город (другая картинка)" />
     <MESSAGE value="Создание учебного навыка Алиса и карты" />
-    <option name="LAST_COMMIT_MESSAGE" value="Создание учебного навыка Алиса и карты" />
+    <MESSAGE value="Создание учебного навыка Алиса и карты (добавлен requests в requirements.txt)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Создание учебного навыка Алиса и карты (добавлен requests в requirements.txt)" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="514" y="0" key="CommitChangelistDialog2" timestamp="1586957445902">
+    <state x="514" y="0" key="CommitChangelistDialog2" timestamp="1586958529535">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="366" y="0" key="CommitChangelistDialog2/0.0.1366.738/1366.0.1920.1050@0.0.1366.738" timestamp="1586348459853" />
     <state x="1880" y="0" key="CommitChangelistDialog2/0.0.1366.738/1366.0.1920.1050@1366.0.1920.1050" timestamp="1586354540740" />
     <state x="386" y="15" key="CommitChangelistDialog2/0.0.1440.860@0.0.1440.860" timestamp="1584539839674" />
-    <state x="514" y="0" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1586957445901" />
+    <state x="514" y="0" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1586958529535" />
     <state x="740" y="279" key="FileChooserDialogImpl" timestamp="1586702353970">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -245,13 +253,13 @@
     </state>
     <state x="212" y="22" key="SettingsEditor/0.0.1366.738/1366.0.1920.1050@0.0.1366.738" timestamp="1586345425005" />
     <state x="223" y="56" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1584539650300" />
-    <state x="416" y="195" key="Vcs.Push.Dialog.v2" timestamp="1586957449641">
+    <state x="416" y="195" key="Vcs.Push.Dialog.v2" timestamp="1586958534225">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="296" y="137" key="Vcs.Push.Dialog.v2/0.0.1366.738/1366.0.1920.1050@0.0.1366.738" timestamp="1586348465304" />
     <state x="1782" y="195" key="Vcs.Push.Dialog.v2/0.0.1366.738/1366.0.1920.1050@1366.0.1920.1050" timestamp="1586354545652" />
     <state x="312" y="160" key="Vcs.Push.Dialog.v2/0.0.1440.860@0.0.1440.860" timestamp="1584539843430" />
-    <state x="416" y="195" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1586957449641" />
+    <state x="416" y="195" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1586958534225" />
     <state x="540" y="273" key="com.intellij.ide.util.TipDialog" timestamp="1586702337927">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>

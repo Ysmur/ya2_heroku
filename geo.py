@@ -7,6 +7,7 @@ def get_coordinates(city):
     url = "https://geocode-maps.yandex.ru/1.x/"
 
     params = {
+        "apikey": "40d1649f-0493-4b70-98ba-98533de7710b",
         'geocode': city,
         'format': 'json'
     }
@@ -24,6 +25,7 @@ def get_country(city):
     url = "https://geocode-maps.yandex.ru/1.x/"
 
     params = {
+        "apikey": "40d1649f-0493-4b70-98ba-98533de7710b",
         'geocode': city,
         'format': 'json'
     }
