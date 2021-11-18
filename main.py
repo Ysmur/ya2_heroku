@@ -2,7 +2,7 @@ from flask import Flask, request
 import logging
 import json
 from geo import get_country, get_distance, get_coordinates
-
+# test
 app = Flask(__name__)
 
 logging.basicConfig(level=logging.INFO, filename='app.log', format='%(asctime)s %(levelname)s %(name)s %(message)s')
