@@ -1,56 +1,39 @@
-from flask import Flask, request
-import logging
-import json
-from geo import get_country, get_distance, get_coordinates
-# test
+from flask import Flask, jsonify, abort
+
 app = Flask(__name__)
 
-logging.basicConfig(level=logging.INFO, filename='app.log', format='%(asctime)s %(levelname)s %(name)s %(message)s')
-
-@app.route('/post', methods=['POST'])
-def main():
-
-    logging.info('Request: %r', request.json)
-
-    response = {
-        'session': request.json['session'],
-        'version': request.json['version'],
-        'response': {
-            'end_session': False
-        }
+tasks = [
+    {
+        'id': 1,
+        'title': 'Buy groceries',
+        'description': 'Milk, Cheese, Pizza, Fruit',
+        'done': False
+    },
+    {
+        'id': 2,
+        'title': 'Learn Python',
+        'description': 'Need to find a good Python tutorial on the web',
+        'done': False
+    },
+    {
+        'id': 3,
+        'title': 'Weekend walk',
+        'description': 'organize a family for a walk in the forest',
+        'done': False
     }
+]
 
-    handle_dialog(response, request.json)
+@app.route('/')
+def index():
+    return jsonify({'tasks': tasks})
 
-    logging.info('Request: %r', response)
-
-    return json.dumps(response)
-
-
-def handle_dialog(res, req):
-    user_id = req['session']['user_id']
-    if req['session']['new']:
-        res['response']['text'] = 'Привет! Я могу сказать в какой стране город или сказать расстояние между городами!'
-        return
-    cities = get_cities(req)
-    if len(cities) == 0:
-        res['response']['text'] = 'Ты не написал название не одного города!'
-    elif len(cities) == 1:
-        res['response']['text'] = 'Этот город в стране - ' + get_country(cities[0])
-    elif len(cities) == 2:
-        distance = get_distance(get_coordinates(cities[0]), get_coordinates(cities[1]))
-        res['response']['text'] = 'Расстояние между этими городами: ' + str(round(distance)) + ' км.'
-    else:
-        res['response']['text'] = 'Слишком много городов!'
-
-
-def get_cities(req):
-    cities = []
-    for entity in req['request']['nlu']['entities']:
-        if entity['type'] == 'YANDEX.GEO':
-            if 'city' in entity['value'].keys():
-                cities.append(entity['value']['city'])
-    return cities
+@app.route('/tasks/<int:task_id>', methods=['GET'])
+def get_task(task_id):
+    print()
+    task = list(filter(lambda t: t['id'] == task_id, tasks))
+    if len(task) == 0:
+        abort(404)
+    return jsonify({'task': task[0]})
 
 if __name__ == '__main__':
     app.run()
